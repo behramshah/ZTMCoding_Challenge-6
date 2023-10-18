@@ -1,0 +1,11 @@
+{
+  "name": "hex2rgbbybahram",
+  "version": "1.0.0",
+  "description": "convert hex to rgb and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bahram Jabbarov",
+  "license": "ISC"
+}
